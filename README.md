@@ -7,7 +7,7 @@ This Node.js application provides endpoints to manage DNS records in a PIHole se
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pihole-dns-manager.git
+git clone https://github.com/bistaalish/pihole-dns-api.git
 ```
 
 2. Install Dependencies:
